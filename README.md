@@ -1,16 +1,42 @@
-## Hi there 👋
+### Olá, eu sou o Hugo Araujo! 👋
 
-<!--
-**MrHuguitos/MrHuguitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://www.linkedin.com/in/hugo-araujo356/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
+Sou técnico em informática pelo IFRN e graduando de Tecnologia da Informação (BTI) na UFRN, apaixonado por resolver problemas e aprender novas tecnologias. Atualmente, estou focando meus estudos em desenvolvimento back-end e análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🌱 Atualmente Aprendendo
+
+* Aprofundando em APIs RESTful com Node.js.
+* Conceitos de análise de dados com Python.
+* Praticando algoritmos e estruturas de dados.
+
+---
+
+### 📫 Como me Encontrar
+
+* **Email:** hugoaraujo.mobile@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/hugo-araujo356/
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrHuguitos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHuguitos&layout=compact&langs_count=7&theme=dracula"/>
+</p>
