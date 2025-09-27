@@ -33,10 +33,3 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 * **Email:** hugoaraujo.mobile@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/hugo-araujo356/
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrHuguitos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHuguitos&layout=compact&langs_count=7&theme=dracula"/>
-</p>
